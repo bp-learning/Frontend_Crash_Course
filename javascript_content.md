@@ -276,7 +276,9 @@ marp: true
 
          console.log(myDate.toLocaleString()); //10/3/2023, 11:17:57 am
       ```
-
+---
+## Beginner Javascript challenges :
+---
 
 ### Challenge 1 : 
 
